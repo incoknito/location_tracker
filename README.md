@@ -1,0 +1,1 @@
+This project is aimed to track your location
